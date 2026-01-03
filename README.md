@@ -36,7 +36,7 @@ Minimize the total cost, which consists of:
 ### Inputs from MIP1
 
 - **Total Transport Volume ($X_r^*$):** The volume assigned to specific transport flows derived from MIP1.
-- **Fleet Size ($M_e^{k*}$):** The number of aircraft of type $k$ utilized on arc $e$, as determined by MIP1.
+- **Fleet Size ($M_e^{k\*}$):** The number of aircraft of type $k$ utilized on arc $e$, as determined by MIP1.
 
 ### Key Decision Variables
 
