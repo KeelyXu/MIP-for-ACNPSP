@@ -2,6 +2,8 @@
 
 # MIP Models (MIP1 & MIP2) for Air Cargo Network Planning and Scheduling problem (ACNPSP)
 
+![Date](https://img.shields.io/badge/Completion_Date-January_2025-blue.svg)
+
 ## Overview
 
 This project utilizes **a two-stage Mixed Integer Programming (MIP)** approach to solve air cargo logistics problems. The process is divided into a macro-level network design phase (MIP1) and a micro-level flight timetabling phase (MIP2). For the details of the models, see  [MIP models.pdf](assets\MIP models.pdf) 
