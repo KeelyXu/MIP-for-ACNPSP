@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project utilizes **a two-stage Mixed Integer Programming (MIP)** approach to solve air cargo logistics problems. The process is divided into a macro-level network design phase (MIP1) and a micro-level flight timetabling phase (MIP2). For the details of the models, see  [MIP models.pdf](assets\MIP%20models.pdf) 
+This project utilizes **a two-stage Mixed Integer Programming (MIP)** approach to solve air cargo logistics problems. The process is divided into a macro-level network design phase (MIP1) and a micro-level flight timetabling phase (MIP2). For the details of the models, see  [MIP models.pdf](assets/MIP%20models.pdf) 
 
 ------
 
